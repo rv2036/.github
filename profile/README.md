@@ -4,7 +4,7 @@ We firmly believe that RISC-V will become the global open standard for ISAs. Sup
 
 我们坚信RISC-V会成为全球ISA的开放标准。全球所有的软件生态系统的支持将会在2036年之前超过所有现有ISA。<br/>如果你持有同样的观点，欢迎加入甲辰计划。
 
-Check out our [Website](https://rv2036.org) and [Forum](https://forum.rv2036.org)!
+Check out our [Website](https://rv2036.org)!
 
 Jiachen Member list can be found [here](https://rv2036.org/members)
 
